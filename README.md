@@ -1,8 +1,8 @@
-🧠 Wikipedia Chatbot (Python)
+# Wikipedia Chatbot (Python)
 
 A lightweight command-line chatbot that fetches real-time summaries from Wikipedia using Python.
 
-📌 Overview
+## Overview
 
 This project is a simple yet practical CLI-based chatbot that interacts with users and retrieves concise information from Wikipedia.
 It demonstrates:
@@ -15,7 +15,7 @@ It demonstrates:
 
 Perfect for beginners learning Python or building small automation tools.
 
-✨ Features
+## Features
 
 1) Fetches 2-sentence summaries for any topic
 2) Real-time Wikipedia search
@@ -25,22 +25,24 @@ Perfect for beginners learning Python or building small automation tools.
 6) Smart exit commands (exit, quit, bye)
 7) Clean and readable code structure
 
-⚙️ Installation & Setup
+## Installation & Setup
 
-1️⃣ Clone the Repository:
-git clone https://github.com/your-username/wikipedia-chatbot.git -----
-cd wikipedia-chatbot
+### 1) Clone the Repository:
+    git clone https://github.com/your-username/wikipedia-chatbot.git
 
-2️⃣ Install Dependencies:
-pip install wikipedia
+    cd wikipedia-chatbot
 
-🚀 Possible Enhancements
+### 2) Install Dependencies:
+
+    pip install wikipedia
+
+## Possible Enhancements
 
 1) Add conversation history tracking.
 2) Convert into a web app using Flask/FastAPI.
 3) Add voice assistant capability
 
-📜 License
+## License
 
 This project is open-source and available for educational and personal use.
 
